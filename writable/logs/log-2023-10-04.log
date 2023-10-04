@@ -1,0 +1,67 @@
+CRITICAL - 2023-10-04 12:30:04 --> Class "App\Models\ModelPlaylist" not found
+in APPPATH\Controllers\Home.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\music\\public\\index.php')
+CRITICAL - 2023-10-04 12:32:28 --> Invalid file: "player.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('player.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('player', [], true)
+ 3 APPPATH\Controllers\Home.php(26): view('player', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\music\\public\\index.php')
+CRITICAL - 2023-10-04 12:39:18 --> Invalid file: "player.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('player.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('player', [], true)
+ 3 APPPATH\Controllers\Home.php(26): view('player', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\music\\public\\index.php')
+CRITICAL - 2023-10-04 12:45:52 --> Invalid file: "player.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('player.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('player', [], true)
+ 3 APPPATH\Controllers\Home.php(26): view('player', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\music\\public\\index.php')
+CRITICAL - 2023-10-04 12:46:35 --> Invalid file: "player.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('player.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('player', [], true)
+ 3 APPPATH\Controllers\Home.php(26): view('player', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\music\\public\\index.php')
+CRITICAL - 2023-10-04 12:47:39 --> Invalid file: "player.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('player.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('player', [], true)
+ 3 APPPATH\Controllers\Home.php(26): view('player', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\music\\public\\index.php')
+CRITICAL - 2023-10-04 12:48:41 --> Invalid file: "playerr.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('playerr.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('playerr', [], true)
+ 3 APPPATH\Controllers\Home.php(26): view('playerr', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\music\\public\\index.php')
